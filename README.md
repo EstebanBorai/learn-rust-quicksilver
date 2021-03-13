@@ -19,6 +19,8 @@ interact with the application.
 ## Crates
 
 - [Block Events](./block-events/src/main.rs)
+- [Collisions](./collisions/src/main.rs)
+- [Actions](./actions/src/main.rs)
 
 ## Motivation
 
