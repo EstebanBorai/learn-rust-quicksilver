@@ -18,9 +18,10 @@ interact with the application.
 
 ## Crates
 
-- [Block Events](./block-events/src/main.rs)
-- [Collisions](./collisions/src/main.rs)
-- [Actions](./actions/src/main.rs)
+- [Block Events](./block-events/src/main.rs): Draw a block on screen and repond to keyboard events
+- [Collisions](./collisions/src/main.rs): Calculate a collision based on Player position
+- [Actions](./actions/src/main.rs): Implements Player capability to Fire "Bolts"
+- [Enemies Respond Attack](./enemies-respond-attack/src/main.rs): Enemies respond to Bolts being fired to them
 
 ## Motivation
 
